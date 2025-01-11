@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #003060;
+}
+
+footer {
+    background-color: #003060;
+    color: white;
+}
+
+.bg-bar1 {
+    background-color: #95B8D1;
+    color: white;
+}
+
+.bg-bar2 {
+    background-color: #A594F9;
+    color: white;
+}
+
+.bg-bar3 {
+    background-color: #EAC4D5;
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(221, 221, 221);
+    color: black;
+}
+
+.contact-bg {
+    background-color: rgb(184, 183, 183);
+    width: fit-content;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-lg-custom {
+    flex: 0 0 12.5%;
+    max-width: 12.5%;
+}
